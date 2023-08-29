@@ -1,0 +1,25 @@
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\Smart Notepad.exe
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\Smart Notepad.deps.json
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\Smart Notepad.runtimeconfig.json
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\Smart Notepad.dll
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\Smart Notepad.pdb
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.csproj.AssemblyReference.cache
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.csproj.GenerateResource.cache
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.AssemblyInfoInputs.cache
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.AssemblyInfo.cs
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.csproj.CoreCompileInputs.cache
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.dll
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\refint\Smart Notepad.dll
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.pdb
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.genruntimeconfig.cache
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\ref\Smart Notepad.dll
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart_Notepad.GetStartedForm.resources
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\x86\leptonica-1.82.0.dll
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\x86\tesseract50.dll
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\x64\leptonica-1.82.0.dll
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\x64\tesseract50.dll
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\Tesseract.dll
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart Notepad.csproj.CopyComplete
+D:\Projects\Smart Notepad\obj\Debug\net6.0-windows\Smart_Notepad.FindFeatureForm.resources
+D:\Projects\Smart Notepad\bin\Debug\net6.0-windows\Emgu.CV.dll

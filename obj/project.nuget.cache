@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kenXPhhFsk+RWgcbPD4OG4t0fHOcL8W8dE05tO817WQa+Hq8t7/jRvMiprfvx5QvK7FlVPj5qV0LrOWiS9s9aA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Smart Notepad\\Smart Notepad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Mahmoud\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

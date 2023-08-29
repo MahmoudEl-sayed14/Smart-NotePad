@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Notepad", "Smart Notepad.csproj", "{EB98AEF3-9A50-4D7D-986E-51DB66DEB92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB98AEF3-9A50-4D7D-986E-51DB66DEB92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB98AEF3-9A50-4D7D-986E-51DB66DEB92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB98AEF3-9A50-4D7D-986E-51DB66DEB92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB98AEF3-9A50-4D7D-986E-51DB66DEB92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B9284C6-3E7B-4795-AB39-9853E0701738}
+	EndGlobalSection
+EndGlobal
